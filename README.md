@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 Oi, Meu nome é Jonas e esta é minha página no Github
 
 - 🔭 Estou trabalhando em projetos de Data Science
-- 🌱 Estou aprendendo Modelo de Machine Learning, Redes Neurais, NLP
+- 🌱 Estou aprendendo Modelos de Machine Learning, Redes Neurais, NLP
 - 💬 Me pergunte sobre Física ;)
 - 📫 Como me encontrar: jdss026@gmail.com / www.linkedin.com/in/jonasdossantossousa/
 - ⚡ Fun fact: O autor de Duna demorou 5 anos para descrever toda a ecologia de Arrakis!
