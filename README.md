@@ -1,17 +1,16 @@
-### Hi there 👋
+### A.M.D.G 🕊️
 
-<!--
-**Jdss026/Jdss026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-Here are some ideas to get you started:
--->
+Welcome to Jonas' GitHub profile.
 
-Oi, Meu nome é Jonas e esta é minha página no Github
-
-- 🔭 Estou trabalhando em projetos de Data Science & Data Engineering
-- 🌱 Estou aprendendo Modelos de Machine Learning, Redes Neurais, GenIA e Engenharia de Dados
-- 💬 Me pergunte sobre Física ;)
-- 📫 Como me encontrar: jdss026@gmail.com / www.linkedin.com/in/jonasdossantossousa/
-- ⚡ Fun fact: O autor de Duna demorou 5 anos para descrever toda a ecologia de Arrakis!
+- 🔭 **Currently working on:**
+  * Applied Agentic AI with financial data (Quantitative & Backend Engineering)
+  * Fractional semiconductor drift-diffusion variational formulation using FEniCS
+- 🌱 **Skills & Interests:** 
+  * Machine Learning, Generative AI, Software Engineering (c/c++/java/python)
+  * Theoretical Physics (hep, cond-mat, qm)
+  * Quantitative Finance & Macroeconomics
+  * Applied Mathematics & Numerical Methods (FEM)
+- 💬 **Ask me about:** Lord of the Rings 📚
+- ⚡ **Fun fact:** J.R.R. Tolkien drew highly detailed, custom astronomical charts for Middle-earth just to ensure the moon phases matched his characters' travel timelines perfectly.
+- 📫 **Reach out:** jdss026 [at] gmail [dot] com
 
